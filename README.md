@@ -46,4 +46,7 @@ QR 코드나 추천 친구를 볼 수 있는 목록을 구현한 모습입니다
 <img width="309" alt="kakao_more-min" src="https://user-images.githubusercontent.com/56289900/144788360-82dc3e91-83ad-4974-9ffe-137bc8d46970.PNG">
 
 (화면 넓이를 좁혀야 보이게 설정하였습니다. )
+
+<br/>
+
 https://myungwanpark.github.io/kokoa-clone-2021/
