@@ -12,6 +12,8 @@
 
 친구 목록을 구현한 모습입니다. 
 
+<br/>
+
 <img width="327" alt="kakao_friends-min" src="https://user-images.githubusercontent.com/56289900/144788358-a7d3dd08-2655-424d-99bf-88daa1b8914d.PNG">
 
 <br/>
@@ -19,6 +21,8 @@
 ### Chats
 
 채팅 목록을 보여주는 창을 구현한 모습입니다.  
+
+<br/>
 
 <img width="320" alt="kakao_chats-min" src="https://user-images.githubusercontent.com/56289900/144788356-36ea5157-b344-40b3-beed-292046e9e6e2.PNG">
 
@@ -28,12 +32,16 @@
 
 하나의 채팅방 안에서의 대화창을 구현한 모습입니다. 
 
+<br/>
+
 <img width="309" alt="kakao_chats_detail-min" src="https://user-images.githubusercontent.com/56289900/144788353-178efe0a-8f56-45af-9e7a-72a0a6137b11.PNG">
 <br/>
 
 ### Find
 
 QR 코드나 추천 친구를 볼 수 있는 목록을 구현한 모습입니다. 
+
+<br/>
 
 <img width="320" alt="kakao_find-min" src="https://user-images.githubusercontent.com/56289900/144788357-80c793a2-ef38-4963-ae4d-7e5f6b5c9972.PNG">
 
@@ -42,6 +50,8 @@ QR 코드나 추천 친구를 볼 수 있는 목록을 구현한 모습입니다
 ### More
 
 더보기 란을 구현한 모습입니다. 
+
+<br/>
 
 <img width="309" alt="kakao_more-min" src="https://user-images.githubusercontent.com/56289900/144788360-82dc3e91-83ad-4974-9ffe-137bc8d46970.PNG">
 
